@@ -1,6 +1,4 @@
 # GitHub Stats Dashboard
-### Portfolio Project — Day 24
-
 A GitHub profile analytics dashboard with server-side API proxying, contribution heatmap, language breakdown, repository cards, and streak stats. Built with **Next.js 15 App Router**.
 
 ---
@@ -81,5 +79,3 @@ src/
 - **Streak computation** — scan flat heatmap array for longest consecutive non-zero run
 
 ---
-
-*Part of a 30-day CS Portfolio Project series. Week 4: AI, Interpreters & Capstone.*
